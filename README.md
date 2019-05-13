@@ -7,7 +7,7 @@ It is made using node package manager and Webpack file bundler. You need to inst
 
 `[sudo] npm install npm -g`
 
-The `-g` flag makes sure that NPM installs globally so you can use it in other projects.
+The `-g` flag makes sure that NPM installs globally so you can use it for other projects as well.
 All of the required dependencies are listed inside `package.json`. Run 
 
 `[sudo] npm install` 
@@ -30,6 +30,7 @@ and on production mode
 These 3 scripts are all listed inside the `package.json` file.
 
 Enjoy!
+
 payman.khayree@gmail.com
 
 
