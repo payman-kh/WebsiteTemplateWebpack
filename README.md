@@ -43,3 +43,5 @@ Some screenshots of the project:
 
 [Screenshot 4](screenshots/screenshot-4-scaled.png)
 
+[Screenshot 4](screenshots/screenshot-5-scaled.png)
+
