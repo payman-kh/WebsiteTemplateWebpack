@@ -33,5 +33,5 @@ Enjoy!
 
 payman.khayree@gmail.com
 
-screenshots/screenshot-1-min.png
+./screenshots/screenshot-1-min.png
 
