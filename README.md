@@ -14,18 +14,23 @@ All of the required dependencies are listed inside `package.json`. Run
 
 To install all of the dependencies from this file. `package.json` must be in your current dierectory when you run the command. After running it a folder called `nodes_modules` appear in your directory. It conatins all of the required dependencies. But keep in mind that this way they are installed locally for this project only. If you want a dependency to be accessible from other npm projects use `-g` global flag to install in your root directory.
 
-There are 3 ways to run the project:
+Run the project using webpack-webserver
 
-1. In development mode:
+`[sudo] npm run start`
+
+It will make a local server with a live connection on `http://localhost:8080`.
+The project can also run on development mode
 
 `[sudo] npm run dev`
 
-which runs the project from the `./src` folder.
-
-2. In production mode:
+and on production mode
 
 `[sudo] npm run build`
 
-which minifies all of the files (makes them as small as possible by for example removing the spaces) and bundle them into one small file which is suitable for production. After running
+These 3 scripts are all listed inside the `package.json` file.
+
+Enjoy!
+payman.khayree@gmail.com
+
 
 
